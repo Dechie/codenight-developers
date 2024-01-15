@@ -208,6 +208,11 @@ and Web Scrapping. Learning and Improving Daily.
 - **GitHub:** [Dru-Go](https://github.com/Dru-Go)
 - **Bio:** I don't always write bugs, but when I do, I make sure they're really hard to find!
 
+### Developer 2
+- **Name:** Bete Goshme.
+- **GitHub:** [bete7512](https://github.com/bete7512)
+- **Bio:** Former Farmer and Passionate Devops, cloud and System Architechture
+
 
 ## Flutter
 
@@ -229,6 +234,18 @@ and Web Scrapping. Learning and Improving Daily.
 - **GitHub:** [Betsegaw Gizaw](https://github.com/betsegaw1332)
 - **Social Media:** https://t.me/b3753
 - **Bio:** Flutter developer
+
+### Developer 4
+- **Name:** Dechasa Teshome 
+- **Social Media:** https://t.me/urlocalcoder
+- **GitHub:** [Dechie](https://github.com/Dechie)
+- **Bio:** I am Flutter developer working on mobile and backend development. I also work on Laravel.
+
+### Developer 5
+- **Name:** Besufikad Micheal 
+- **Website:** https://besufikad17.github.io
+- **GitHub:** [Besufikad17](https://github.com/Besufikad17)
+- **Bio:** Software Engineering student in ASTU. I work on mobile app development (using Flutter) and backend (using expressJs and laravel).
 
 
 ## PHP
